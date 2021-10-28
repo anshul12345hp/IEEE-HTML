@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title> FOOTBALL CLUB</title>
+	<body bgcolor="yellow">
+		<h1 align="center">FOOTBALL CLUB</h1>
+		<center>
+		<img src="C:\Anshul\HTML\football.jpg" align="center" height="350" width="700">
+		</center>
+		<p> Hello football fans </p>
+		<p align="right"> This is the official website to get FIFA information </p>
+		<table border="1" bgcolor="green" bordercolor="red" align="center" cellspacing="0" cellpadding="15">
+			<th align="center" colspan="5">Players Record </th>
+			<tr>
+				<td align="center"><b> Name </b></td>
+				<td align="center"><b> Team </b></td>
+				<td align="center"><b> Age </b></td>
+				<td colspan="2" align="center"><b> Goals and Assists</b></td>
+			</tr>
+			<tr>
+				<td align="center">Messi</td>
+				<td align="center">Barca</td>
+				<td align="center">32</td>
+				<td align="center">47</td>	
+				<td align="center">20</td>
+			</tr>
+			<tr>
+				<td align="center">CR7</td>
+				<td align="center">ManU</td>
+				<td align="center">35</td>
+				<td align="center">37</td>	
+				<td align="center">29</td>
+			</tr>
+			<tr>
+				<td align="center">Neymar</td>
+				<td align="center">Psg</td>
+				<td align="center">29</td>
+				<td rowspan="2" align="center">25</td>	
+				<td rowspan="2" align="center">11</td>
+			</tr>
+			<tr>
+				<td align="center">Squarez</td>
+				<td align="center">ATM</td>
+				<td align="center">33</td>
+			</tr>
+		</table>
+		<hr style="width: 100%; color: blue;align-content: center;size: 30%;">
+			<p>Items required for football.</p>
+			<ul type="square">
+				<li>Soccer Ball</li>
+				<li>Socks</li>
+				<li>Soccer Shorts</li>
+				<li>Jersy</li>
+				<li>Shin-guards</li>
+			</ul>	
+			<hr style="width: 100%; color: blue;align-content: center;size: 30%;">
+			<p>Football is a Family of Team Sports that involve,<font style="color: red;">to Varying Degrees, Kicking Ball to Score a Goal</font></p>
+			<a href="source assign 2.html">Join Us</a>
+	</body>
+</head>
+</html>
